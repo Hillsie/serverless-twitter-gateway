@@ -1,0 +1,36 @@
+{
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "python.linting.enabled": false,
+  "[javascriptreact]": {},
+  "window.zoomLevel": 0,
+  "emmet.variables": {
+    "javascript": "javascriptreact"
+  },
+  "explorer.sortOrder": "modified",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "plaintext": "jade"
+  },
+  "emmet.syntaxProfiles": {
+    "html": {
+      "attr_quotes": "single"
+    },
+    "jsx": {
+      "self_closing_tag": true
+    }
+  },
+  "emmet.preferences": {
+    "filter.commentAfter": "\n<!-- /<%= attr('id', '#') %><%= attr('class', '.') %> -->",
+    "css.webkitProperties": "border-right,animation",
+    "css.mozProperties": "-",
+    "css.oProperties": "-",
+    "css.msProperties": "-"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": { "editor.formatOnSave": true },
+  "[html]": { "editor.formatOnSave": true },
+  "[json]": { "editor.formatOnSave": true }
+}

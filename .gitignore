@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.envrc
+
+# Other directories
+package-lock.json
+/stuff
+*.log
+.private.md
+.DS_Store

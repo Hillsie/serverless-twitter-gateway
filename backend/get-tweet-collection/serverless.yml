@@ -1,0 +1,39 @@
+service: twitter-collection-gateway
+package:
+  exclude:
+      - node_modules/oauth/examples/**
+      - node_modules/oauth/tests/**
+provider:
+  name: aws
+  runtime: nodejs8.10
+  profile: default
+  endpointType: REGIONAL
+  stage: devs
+  region: ap-southeast-2
+  logRetentionInDays: 5
+  apiKeys:
+    - iautomate.cloud
+  usagePlan:
+    quota:
+      limit: 300
+      offset: 0
+      period: MONTH
+    throttle:
+      burstLimit: 10
+      rateLimit: 10
+functions:
+  getCuratedTweets:
+    handler: handler.getCuratedTweets
+    events:
+      - http: 
+            method: GET
+            path: getCuratedTweets
+            cors: true
+            private: true
+    timeout: 5
+    environment:
+        ConsumerAPIKey: ${ssm:/twittergateway/ConsumerAPIKey~true}
+        APISecretKey: ${ssm:/twittergateway/APISecretKey~true}
+        OAuthAccessToken: ${ssm:/twittergateway/OAuthAccessToken~true}
+        OAuthTokenSecret: ${ssm:/twittergateway/OAuthTokenSecret~true}
+        twitterCollectionUUID: https://api.twitter.com/1.1/collections/entries.json?id=custom-${ssm:/twittergateway/twitterCollectionUUID~true}&tweet_mode=extended

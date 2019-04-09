@@ -1,6 +1,13 @@
+# History
+
+Some code in this module has been used from https://github.com/chriso/validator.js
+Copyright (c) 2018 Chris O'Hara <cohara87@gmail.com> under an MIT license, same as below.
+
+# License
+
 MIT License
 
-Copyright (c) 2019 iautomate.cloud  Hills  <hills+twittercollectiongateway@iautomate.cloud>
+Copyright (c) 2019 iautomate.cloud Hills <hills+twittercollectiongateway@iautomate.cloud>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
