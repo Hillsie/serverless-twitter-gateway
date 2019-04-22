@@ -1,6 +1,6 @@
 {
   "name": "serverless-twitter-gateway",
-  "description": "This Serverless Rest API simplifies the curation of tweets on a website with TweetDeck, outputted as JSON, so that a website owner can manage which tweets appear on a website dynamically, without the need of the Twitter Widget",
+  "description": "This Serverless JSON Rest API simplifies the curation of tweets on a website. Using TweetDeck, a website owner can dynamically control a collection of tweets that are pinned to a website, without the need for hardcoding tweets or the use of the Twitter Widget",
   "version": "1.0.0",
   "license": "MIT",
   "files": [
