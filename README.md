@@ -19,7 +19,7 @@ JavaScript ES6, NodeJS, AWS API Gateway, Serverless Framework and AWS Lambda Fun
 
 ## Front End
 The Front End has been built as a seperate project with reactjs. Open up the project and run from within the `frontend` folder
-[Front End](/frontend/README.md)
+[More info read the Front End MD](/frontend/README.md)
 
 ![Screen shot of Twitter Cards](/frontend/TweetCards.png)
 
