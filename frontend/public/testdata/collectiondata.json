@@ -1,0 +1,117 @@
+{
+    "collection": {
+        "collection_url": "https://twitter.com/HillsieTheFirst/timelines/1070127260567359488",
+        "description": "A curated collection of interesting links and Tweets related to Serverless, Code and Cloud. ",
+        "twitter_privacy": "https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy",
+        "created_hills": "https://iautomate.cloud"
+    },
+    "tweetbyid": {
+        "1126317663137910784": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "When your API isn&#x27;t finished and you want to continue developing the frontend use moc data. Store the testdata in the /Public/testdata/moc.json, then call it in the function. Have a better way, comments, please? #reactjs #Serverless https://t.co/Iv9NE4CuVu",
+            "favorite_count": 2,
+            "retweet_count": 3,
+            "created_at": "Thu May 09 02:47:11 +0000 2019",
+            "media": {
+                "statusCode": 200,
+                "card_image": "https://pbs.twimg.com/media/D6F7mYCUEAEGpSV.png"
+            },
+            "card_url": "https://twitter.com/HillsieTheFirst/status/1126317663137910784"
+        },
+        "1019743478090149890": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "Love technology. How about https://t.co/g8TfWPSIvV conference with some live https://t.co/IhTxfO2dNL Innovate | Build Serverless Data-Driven Web Apps Using React, GraphQL, and AWS AppSync (Session 1B) https://t.co/GNc0QFltpN",
+            "favorite_count": 1,
+            "retweet_count": 0,
+            "created_at": "Thu Jul 19 00:39:25 +0000 2018",
+            "media": {
+                "statusCode": 201,
+                "headline": "AWS: Live Coding - AWS Innovate | Build Serverless Data-Driven Web Apps Using React, GraphQL, and...",
+                "lead": "Jul 18 • 5:40 PM - 6:40 PM PDT",
+                "source": "twitch.tv",
+                "card_image": "https://pbs.twimg.com/card_img/1130818200344715266/vr3VJZUv?format=jpg&amp;name=600x314"
+            },
+            "card_url": "https://twitter.com/HillsieTheFirst/status/1019743478090149890"
+        },
+        "1023760052656590848": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "Two Hours to hack US voting machines? Scary! Need another reason to take security seriously. https://t.co/OVgGg0EqxA #CloudComputing #WordPress #CloudNews #reactjs #serverless",
+            "favorite_count": 1,
+            "retweet_count": 2,
+            "created_at": "Mon Jul 30 02:39:51 +0000 2018",
+            "media": {
+                "statusCode": 201,
+                "headline": "Hackers break into voting machines within 2 hours at Defcon",
+                "lead": "Hackers from around the world cracked into voting machines at Defcon convention in Las Vegas this weekend",
+                "source": "cbsnews.com",
+                "card_image": "https://pbs.twimg.com/card_img/1130345083725684736/T23rO2sh?format=jpg&amp;name=600x314"
+            },
+            "card_url": "https://twitter.com/HillsieTheFirst/status/1023760052656590848"
+        },
+        "928809513938849794": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "If you need a little validation that web security is important, follow this link. https://t.co/TigElJOR5E",
+            "favorite_count": 1,
+            "retweet_count": 0,
+            "created_at": "Fri Nov 10 02:20:19 +0000 2017",
+            "media": {
+                "statusCode": 201,
+                "headline": "World’s Biggest Data Breaches &amp;amp; Hacks — Information is Beautiful",
+                "lead": "Data visualization of the world biggest data breaches, leaks and hacks. Constantly updated. Powered by VizSweet.",
+                "source": "informationisbeautiful.net",
+                "card_image": "https://pbs.twimg.com/card_img/1129122268989263881/-sdhll4k?format=jpg&amp;name=600x314"
+            },
+            "card_url": "https://twitter.com/HillsieTheFirst/status/928809513938849794"
+        },
+        "1076623686763859968": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "@pjf 😂😂😂",
+            "favorite_count": 0,
+            "retweet_count": 0,
+            "created_at": "Sat Dec 22 23:41:04 +0000 2018",
+            "media": {},
+            "card_url": "https://twitter.com/HillsieTheFirst/status/1076623686763859968"
+        },
+        "1079563908363411458": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "Time for a new start! Time to reframe the future! May you have an awesome 2019 🍾🎆 #HappyNewYear2019 https://t.co/gQF5pmgOyg",
+            "favorite_count": 0,
+            "retweet_count": 0,
+            "created_at": "Mon Dec 31 02:24:27 +0000 2018",
+            "media": {
+                "statusCode": 200,
+                "card_image": "https://pbs.twimg.com/ext_tw_video_thumb/1079563865757704192/pu/img/ELNKJd0W4n99iosD.jpg"
+            },
+            "card_url": "https://twitter.com/HillsieTheFirst/status/1079563908363411458"
+        },
+        "1022379946365181953": {
+            "name": "Andrew Hills",
+            "screen_name": "HillsieTheFirst",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851922876173139968/1blCjODi_normal.jpg",
+            "full_text": "Found this interesting Digital psychology site. Explains some of our online behaviour. Elevate your SaaS ecommerce or other digital products. https://t.co/6bfPlUW2wg",
+            "favorite_count": 1,
+            "retweet_count": 0,
+            "created_at": "Thu Jul 26 07:15:48 +0000 2018",
+            "media": {
+                "statusCode": 201,
+                "headline": "Digital Psychology",
+                "lead": "A free library of psychological principles and examples to elevate your SaaS, e-commerce or other digital products.",
+                "source": "digitalpsychology.io",
+                "card_image": "https://pbs.twimg.com/card_img/1128179552214290432/2eci_7gZ?format=png&amp;name=600x314"
+            },
+            "card_url": "https://twitter.com/HillsieTheFirst/status/1022379946365181953"
+        }
+    }
+}

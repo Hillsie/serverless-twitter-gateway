@@ -17,7 +17,11 @@
 
 JavaScript ES6, NodeJS, AWS API Gateway, Serverless Framework and AWS Lambda Functions. This is an AWS Rest API Gateway Serverless implementation. To modify for Google Cloud and Azure, modify `handler.js`
 
-## Serverless
+## Front End
+The Front End has been built as a seperate project with reactjs. Open up the project and run from within the `frontend` folder
+![Front End](/frontend/README.md)
+
+## Serverless Back End
 
 Each serverless function is kept in a collection of supporting code in the form of a module. As each module in serverless is a different Lambda Function. Each module should be deployed. `sls deploy` takes care of the entire module deployment. Configuration is required before you deploy. [__API Configuration and deployment__](#API-Configuration-and-deployment).
 
@@ -127,28 +131,13 @@ Card Images are not supplied by Twitter. Have found a way to pull in Card_Images
 
 ## TODOS
 
-Will See how it goes
-
-1. front-end sample code
+~~1. front-end sample code~~
 2. front-end caching of tweets to reduce API calls
 3. BackEnd logic and caching of Tweets to reduce twitter api calls
 
 ## Contributing
 
 Contributions Welcome. Use the "fork-and-pull" Git workflow.
-
-1. Fork the repo on GitHub
-2. Clone the project to your own machine
-3. Work on your fork
-4. Make your changes and additions
-5. Change or add tests if needed ( Would be nice, but I haven't any)
-6. Run tests and make sure they pass ( Would be nice, but I haven't any)
-7. Add changes to README.md if needed
-8. Commit changes to your own branch
-9. Make sure you merge the latest from "upstream" and resolve conflicts if there is any
-10. Repeat step 3(3) above
-11. Push your work back up to your fork
-12. Submit a Pull request so that we can review your changes
 
 # License
 
