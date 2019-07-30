@@ -3,7 +3,8 @@ The slider part isn't complete. Cards have been created and styling is in progre
 
 # Front End Twitter Slider
 The front-end Web Slider displays the tweets as a horizontal card.  The slider uses the REST API built from the backend part of this project.
-![Screen shot of Twitter Cards](/TweetCards.png)
+
+![Screen shot of Twitter Cards](/frontend/TweetCards.png)
 
 # Front End Technology
 Built using HTML, CSS, Styled Components, JavaScript and ReactJS.
