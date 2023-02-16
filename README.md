@@ -1,4 +1,4 @@
-# Serverless Twitter Gateway
+# Node Serverless Twitter Gateway
 
 ### This Serverless JSON Rest API simplifies the curation of tweets on a website. Using TweetDeck, a website owner can dynamically control a collection of tweets that are pinned to a website, without the need for hardcoding tweets or the use of the Twitter Widget
 
